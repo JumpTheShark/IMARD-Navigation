@@ -19,11 +19,11 @@
 
 ##### <a name="Manifesto"></a> Манифест по концепции IMARD
 
-Coming soon!
+Чтобы понять, о чём вообще концепция IMARD, можно ознакомиться с [манифестом](https://github.com/JumpTheShark/IMARD-manifesto).
 
 ##### <a name="ConceptionDocuments"></a> Вспомогательные документы по теоретической части
 
-Coming soon!
+Для более глубокого ознакомления с концепцией, милости просим [сюда](https://github.com/JumpTheShark/IMARD-Documentation).
 
 ### IMARD как техническая система
 
@@ -47,7 +47,8 @@ Coming soon!
 
 ##### <a name="MS"></a> IMARD Module Storage (MS)
 
-Coming soon!
+Реализация сервера, занимающегося хранением всех обучающих модулей, со своим скромным API и базой данных.
+[Ссылка](https://github.com/JumpTheShark/imard-module-repo).
 
 ##### <a name="AT"></a> IMARD Authoring Tools (AT)
 
