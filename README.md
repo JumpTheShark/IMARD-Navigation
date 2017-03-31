@@ -33,7 +33,7 @@ Coming soon!
 
 ##### <a name="Specifications"></a> Спецификации
 
-Coming soon!
+Найти спецификации по техническим элементам системы IMARD можно [здесь](https://github.com/JumpTheShark/IMARD-Documentation).
 
 ##### <a name="Technologies"></a> Использующиеся технологии
 
