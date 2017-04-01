@@ -33,7 +33,7 @@ Coming soon!
 
 ##### <a name="Specifications"></a> Спецификации
 
-Найти спецификации по техническим элементам системы IMARD можно [здесь](https://github.com/JumpTheShark/IMARD-Documentation).
+Найти спецификации по техническим элементам системы IMARD можно [здесь](https://github.com/JumpTheShark/IMARD-Documentation/blob/develop/chapter1.md).
 
 ##### <a name="Technologies"></a> Использующиеся технологии
 
