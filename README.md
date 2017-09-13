@@ -43,9 +43,12 @@ Coming soon!
 
 ##### <a name="LMS"></a> IMARD Learning Management System (LMS)
 
-Coming soon!
+Реализация сервера, занимающегося обработкой запросов на регистрацию новых модулей и их выдачу front-end части системы для предоставления пользователям. В данный момент не использует IMARD MS для хранения модулей, а имеет собственное хранилище.
+[Ссылка](https://github.com/JumpTheShark/imard-lms)
 
 ##### <a name="MS"></a> IMARD Module Storage (MS)
+
+**DEPRECATED**
 
 Реализация сервера, занимающегося хранением всех обучающих модулей, со своим скромным API и базой данных.
 [Ссылка](https://github.com/JumpTheShark/imard-module-repo).
